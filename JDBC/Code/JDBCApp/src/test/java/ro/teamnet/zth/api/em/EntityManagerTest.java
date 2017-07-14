@@ -44,7 +44,8 @@ public class EntityManagerTest {
         nou.setLocation(1700L);
         Department dep = (Department) mgn.insert(nou);
 
-        assertFalse(dep==null);
+        assertEquals(dep.getDepartmentName(),"Piroman");
+        assertEquals((Object)dep.getId(),280L);
 
     }
 

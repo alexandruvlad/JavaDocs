@@ -147,9 +147,11 @@ public class EntityManagerImpl implements EntityManager {
 
                     f.setAccessible(true);
 
-//                    col.setValue(f.get());
+                    col.setValue(f.get(entity));
 
                 } catch (NoSuchFieldException e) {
+                    e.printStackTrace();
+                } catch (IllegalAccessException e) {
                     e.printStackTrace();
                 }
             }
