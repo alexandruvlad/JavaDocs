@@ -137,10 +137,13 @@ public class EntityManagerImpl implements EntityManager {
         String tableName = EntityUtils.getTableName(entity.getClass());
         List<ColumnInfo> columns = EntityUtils.getColumns(entity.getClass());
 
+        Long Id = 0L;
+
         for (ColumnInfo col : columns) {
 
             if (col.isId()) {
-                col.setValue(getNextIdVal(tableName, col.getDbColumnName()));
+                Id = getNextIdVal(tableName, col.getDbColumnName());
+                col.setValue(Id);
             } else {
                 try {
                     Field f = entity.getClass().getDeclaredField(col.getColumnName());
@@ -169,7 +172,7 @@ public class EntityManagerImpl implements EntityManager {
         try {
             Statement stm = con.createStatement();
             ResultSet rs = stm.executeQuery(query);
-            return findById(entity.getClass(), 280L);
+            return findById(entity.getClass(), Id);
 
         } catch (SQLException e) {
             e.printStackTrace();

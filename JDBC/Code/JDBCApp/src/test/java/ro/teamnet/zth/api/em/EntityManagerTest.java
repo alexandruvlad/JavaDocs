@@ -45,7 +45,7 @@ public class EntityManagerTest {
         Department dep = (Department) mgn.insert(nou);
 
         assertEquals(dep.getDepartmentName(),"Piroman");
-        assertEquals((Object)dep.getId(),280L);
+        assertEquals((Object)dep.getId(),300L);
 
     }
 
