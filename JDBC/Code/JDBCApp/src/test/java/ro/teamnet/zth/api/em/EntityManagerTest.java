@@ -2,6 +2,7 @@ package ro.teamnet.zth.api.em;
 
 import org.junit.Test;
 import ro.teamnet.zth.appl.domain.Department;
+import ro.teamnet.zth.appl.domain.Employee;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -94,6 +95,18 @@ public class EntityManagerTest {
 
         List<Department> depList = mgn.findByParams(Department.class,params);
         assertEquals(depList.size(),1);
+    }
+
+    @Test
+    public void findEmployeesTest(){
+        EntityManagerImpl mgn = new EntityManagerImpl();
+
+        List<Employee> emp = mgn.findEmployees("Executive");
+
+        assertEquals(null,emp);
+//        assertEquals(emp.get(0).getFirstName(),"Steven");
+//        assertEquals(emp.get(0).getLastName(),"King");
+
     }
 
 }

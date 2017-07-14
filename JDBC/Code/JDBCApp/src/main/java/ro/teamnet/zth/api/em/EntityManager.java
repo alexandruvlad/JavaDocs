@@ -17,5 +17,6 @@ public interface EntityManager {
     void delete(Object entity);
     <T> List<T> findByParams(Class<T> entityClass, Map<String, Object> params);
 
+    <T> List<T> findEmployees(String departmentName);
 
 }

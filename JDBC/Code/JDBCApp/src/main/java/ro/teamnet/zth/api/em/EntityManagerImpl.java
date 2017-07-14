@@ -1,6 +1,7 @@
 package ro.teamnet.zth.api.em;
 
 import ro.teamnet.zth.api.database.DBManager;
+import ro.teamnet.zth.appl.domain.Employee;
 
 
 import java.lang.reflect.Field;
@@ -404,6 +405,58 @@ public class EntityManagerImpl implements EntityManager {
         } catch (NoSuchFieldException e) {
             e.printStackTrace();
         } catch (InstantiationException e) {
+            e.printStackTrace();
+        }
+
+
+        return null;
+    }
+
+    @Override
+    public List<Employee> findEmployees(String departmentName) {
+
+        try {
+            Connection con = DBManager.getConnection();
+
+            String query = "SELECT department_id from departments where department_name= '"+departmentName + "'";
+
+            List<ColumnInfo> columns = EntityUtils.getColumns(Employee.class);
+
+            System.out.println(query);
+
+            Statement stm = con.createStatement();
+            ResultSet resultSet = stm.executeQuery(query);
+
+            Long depId = -20L;
+            if(resultSet.next()){
+                depId = resultSet.getLong(1);
+            };
+
+            resultSet.close();
+
+            query = "SELECT employee_id, first_name, last_name from employees where department_id="+depId;
+
+            System.out.println(query);
+
+            stm = con.createStatement();
+            ResultSet resultSet2 = stm.executeQuery(query);
+
+            List<Employee> all = new ArrayList<Employee>();
+
+            while(resultSet2.next()){
+                Employee e = new Employee();
+
+                e.setId(resultSet.getLong("employee_id"));
+                e.setFirstName(resultSet.getString("first_name"));
+                e.setLastName(resultSet.getString("last_name"));
+
+                all.add(e);
+
+            }
+
+            return all;
+
+        } catch (SQLException e) {
             e.printStackTrace();
         }
 

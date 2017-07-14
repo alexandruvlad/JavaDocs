@@ -5,6 +5,7 @@ import ro.teamnet.zth.api.em.EntityManagerImpl;
 import ro.teamnet.zth.appl.dao.DepartmentDao;
 import ro.teamnet.zth.appl.dao.LocationDao;
 import ro.teamnet.zth.appl.domain.Department;
+import ro.teamnet.zth.appl.domain.Location;
 
 import java.util.HashMap;
 import java.util.List;
@@ -80,21 +81,23 @@ public class EntityDaoTest {
     public void findByIdTest2() {
         LocationDao mgn = new LocationDao();
 
-        Department department = mgn.findById(Department.class,10L);
+        Location loc = mgn.findById(Location.class,1000L);
 
-        assertEquals(department.getDepartmentName(),"Administration");
+        assertEquals(loc.getCity(),"Roma");
 
     }
 
     @Test
     public void insertTest2(){
         LocationDao mgn = new LocationDao();
-        Department nou = new Department();
-        nou.setDepartmentName("Piroman");
-        nou.setLocation(1700L);
-        Department dep = (Department) mgn.insert(nou);
+        Location loc = new Location();
+        loc.setCity("Bucharest");
+        loc.setPostalCode("12345");
+        loc.setStateProvince("Sector 3");
+        loc.setStreetAddress("523 Iuliu Maniu");
+        Location nou = (Location)mgn.insert(loc);
 
-        assertEquals(dep.getDepartmentName(),"Piroman");
+        assertEquals(nou.getCity(),"Bucharest");
 
     }
 
@@ -102,20 +105,22 @@ public class EntityDaoTest {
     @Test
     public void findAllTest2(){
         LocationDao mgn = new LocationDao();
-        List<Department> dep = mgn.findAll(Department.class);
-        assertEquals(dep.get(0).getDepartmentName(),"Administration");
+        List<Location> locs = mgn.findAll(Location.class);
+        assertEquals(locs.get(0).getCity(),"Roma");
     }
 
     @Test
     public void updateTest2(){
         LocationDao mgn = new LocationDao();
-        Department dep = new Department();
-        dep.setLocation(2000L);
-        dep.setDepartmentName("Blablablac");
-        dep.setId(20L);
-        Department d = mgn.update(dep);
+        Location loc = new Location();
+        loc.setStreetAddress("123 In Partea Aia");
+        loc.setStateProvince("Sector 5");
+        loc.setPostalCode("12345");
+        loc.setCity("Constanta");
+        loc.setId(3000L);
+        Location l = mgn.update(loc);
 
-        assertEquals(d.getDepartmentName(),"Blablablac");
+        assertEquals(l.getCity(),"Constanta");
 
     }
 
@@ -125,10 +130,9 @@ public class EntityDaoTest {
         LocationDao mgn = new LocationDao();
         Map<String, Object> params = new HashMap<String, Object>();
         params.put("location_id", 1400L);
-        params.put("department_id", 60L);
-//        params.put("department_id",30L);
+        params.put("state_province", "Texas");
 
-        List<Department> depList = mgn.findByParams(Department.class, params);
-        assertEquals(depList.size(), 1);
+        List<Location> locList = mgn.findByParams(Location.class, params);
+        assertEquals(locList.size(), 1);
     }
 }
