@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f05b7dc-1716-461b-a9fc-78c8a0af3bee" name="Default" comment="Servlets-Day2">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/Java-Collections-Framework-An-introduction-Presentation-Official-1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/Java-Collections-Framework-An-introduction-Presentation-Official-2.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/classes/exercise/exercise0/Exercise0.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/classes/exercise/exercise1/Exercise1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/classes/exercise/exercise2/MyList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/classes/exercise/exercise3/Exercise3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/classes/exercise/exercise4/CastException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/classes/exercise/exercise4/MyImplementedList$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/classes/exercise/exercise4/MyImplementedList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/test-classes/Exercise1Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/test-classes/Exercise2Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/test-classes/Exercise3Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/test-classes/Exercise4Test$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/target/test-classes/Exercise4Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise0/Exercise0.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise1/Exercise1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise2/Exercise2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise2/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise2/StudentWithoutEqualsAndHashCode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise2/StudentWithoutHashCode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise3/Exercise3Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise3/Stud.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise3/Stud2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise3/Stud3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise3/Stud4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise3/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise4/MyHashMap$MyEntry.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise4/MyHashMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise5/MyHashMapWithMyImplementedList$MyEntry.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise5/MyHashMapWithMyImplementedList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise6/MyResizableHashMap$MyEntry.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise6/MyResizableHashMap$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/classes/exercise6/MyResizableHashMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/test-classes/Exercise1Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/test-classes/Exercise2Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/test-classes/Exercise4Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/test-classes/Exercise5Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/target/test-classes/Exercise6Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/annotations/Column.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/annotations/Id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/annotations/Table.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/database/DBManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/database/DBProperties.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/ColumnInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/Condition.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/EntityManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/EntityManagerImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/EntityUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/QueryBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/QueryType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/appl/dao/DepartmentDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/appl/dao/LocationDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/appl/domain/Department.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/appl/domain/Employee.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/appl/domain/Location.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/autowired/A.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/autowired/AutowiredUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/autowired/B.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/autowired/Foo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/autowired/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/autowired/MyAutowired.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/autowired/MyQualifier.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/autowired/SpeakingInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/test-classes/ro/teamnet/zth/api/database/DBManagerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/test-classes/ro/teamnet/zth/api/em/EntityManagerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/test-classes/ro/teamnet/zth/api/em/EntityUtilsTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/target/test-classes/ro/teamnet/zth/appl/EntityDaoTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Introduction to JDBC.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/JDBC_Workshop_day1.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/JDBC_Workshop_day2.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Other/ojdbc6-11.2.0.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/Java 8 Exercise.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/Java 8.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/main/resources/com/java_8_training/examples/chapter02/Function.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/test/resources/wrap_up/.bar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/test/resources/wrap_up/.foo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/test/resources/wrap_up/blah" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/test/resources/wrap_up/bleh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/META-INF/BenchmarkList" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/com/java_8_training/examples/chapter02/Function.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/com/java_8_training/problems/collectors/Dish$CaloricLevel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/com/java_8_training/problems/collectors/Dish$Type.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/com/java_8_training/problems/collectors/Dish.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/com/java_8_training/problems/streams/FiltersAndMapExercise.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/com/java_8_training/problems/streams/Nationality.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/com/java_8_training/problems/streams/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/META-INF/BenchmarkList" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/com/java_8_training/problems/collectors/ArithmeticAndReducingCollectorsTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/com/java_8_training/problems/collectors/CollectTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/com/java_8_training/problems/collectors/OccurrencesTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/com/java_8_training/problems/collectors/PartitioningAndGroupingTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/wrap_up/.bar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/wrap_up/.foo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/wrap_up/blah" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/wrap_up/bleh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/Java 8.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Handling Exceptions.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/OOP_DRY_Immutable.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Object_lifecycle_GC.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop Documentation.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop OOP.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/canvas/Canvas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/exceptions/Exercise.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/exceptions/MyException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/exceptions/NestedException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/exceptions/Propagation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/exceptions/Resources.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/exceptions/Useall.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/oop/graphicsshape/AbstractShape.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/oop/graphicsshape/Circle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/oop/graphicsshape/Circles.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/oop/graphicsshape/Point.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/oop/graphicsshape/Point3D.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/oop/graphicsshape/Shape.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/oop/graphicsshape/ShapeBehaviour.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/oop/graphicsshape/Square.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/oop/runapp/Immutable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/oop/runapp/RunApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/proiect/exceptions/AnimalManancaOmException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/proiect/exceptions/AnimalPeCaleDeDisparitieException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/proiect/oop/AngajatZoo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/proiect/oop/Animal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/proiect/oop/AnimalZooFeroce.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/proiect/oop/AnimalZooRar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/proiect/oop/IngrijitorZoo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/proiect/oop/VeterinarZoo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/out/production/Workshop/ro/teamnet/zerotohero/proiect/zoo/GradinaZooMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/Maven+jUnit.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/Workshop Maven.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/classes/ro/teamnet/hello2/HelloWorldExtend.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/helloworld-extend-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/collapsed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/expanded.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/external.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/icon_error_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/icon_info_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/icon_success_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/icon_warning_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/logos/build-by-maven-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/logos/build-by-maven-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/logos/maven-feather.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/images/newwindow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/test-classes/ro/teamnet/hello2/HelloWorldExtendTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/classes/ro/teamnet/hello/HelloWorld.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/helloworld-main-1.0-sources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/helloworld-main-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/collapsed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/expanded.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/external.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/icon_error_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/icon_info_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/icon_success_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/icon_warning_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/logos/build-by-maven-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/logos/build-by-maven-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/logos/maven-feather.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/images/newwindow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/test-classes/ro/teamnet/hello/HelloWorldTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/target/BeanValidationSample-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/target/classes/org/samiky/beanvalidationsample/DoTheValidation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/target/classes/org/samiky/beanvalidationsample/entities/ArithmeticOperation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/target/classes/org/samiky/beanvalidationsample/entities/Car.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/target/classes/org/samiky/beanvalidationsample/entities/Gender.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/target/classes/org/samiky/beanvalidationsample/entities/Human.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/target/classes/org/samiky/beanvalidationsample/entities/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/target/ProjectName-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/target/classes/com/mkyong/core/App.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/target/test-classes/com/mkyong/core/AppTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/classes/com/timnet/workshop/App.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/mvnSrcJavadoc-1.0-sources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/mvnSrcJavadoc-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/test-classes/com/timnet/workshop/AppTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/target/classes/org/sonatype/mavenbook/web/SimpleServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/target/simple-webapp.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/target/simple-webapp/WEB-INF/classes/org/sonatype/mavenbook/web/SimpleServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/classes/org/sonatype/mavenbook/App.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/simple-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/test-classes/org/sonatype/mavenbook/AnotherAppTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/test-classes/org/sonatype/mavenbook/AppTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/classes/com/timnet/App.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/classes/com/timnet/MyUnit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/test-classes/com/timnet/AppTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/test-classes/com/timnet/ClassPropertyTest$Book.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/test-classes/com/timnet/ClassPropertyTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/test-classes/com/timnet/GlobalTimeoutTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/test-classes/com/timnet/ListTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/test-classes/com/timnet/MapTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/test-classes/com/timnet/MyUnitTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/test-classes/com/timnet/TimeoutTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/unitTesting-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/ojdbc6-11.2.0.2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/out/ro/teamnet/zerotohero/reflection/ClassReflectionDemoMain$Day.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/out/ro/teamnet/zerotohero/reflection/ClassReflectionDemoMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/out/ro/teamnet/zerotohero/reflection/altceva.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/out/ro/teamnet/zerotohero/reflection/altceva2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/out/ro/teamnet/zerotohero/reflection/ceva.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/out/ro/teamnet/zerotohero/reflection/multiclass$gri.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/out/ro/teamnet/zerotohero/reflection/multiclass$maro.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/out/ro/teamnet/zerotohero/reflection/multiclass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/Reflection.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/Reflection_workshop.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/ZTH-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/api/annotations/Column.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/api/annotations/Id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/api/annotations/Table.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/api/em/ColumnInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/api/em/Condition.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/api/em/EntityUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/api/em/QuerryType$query.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/api/em/QuerryType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/appl/domain/Department.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/appl/domain/Employee.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/appl/domain/Job.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/classes/ro/teamnet/zth/appl/domain/Location.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/test-classes/ro/teamnet/zth/api/em/EntityUtilsTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ojdbc6-11.2.0.2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../SQL/SQL Presentation.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../SQL/SQL-Workshop.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../SQL/ojdbc6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/HelloWorldServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ImportFileServlet$T.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ImportFileServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ZeroToHeroServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/HelloWorldServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ImportFileServlet$T.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ImportFileServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ZeroToHeroServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Docs/Web Presentation-Part1.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Docs/Workshop 1 - Server configuration.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Docs/Workshop 2 - Web application.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Docs/Workshop 3 - Servlets.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Docs/Web Presentation-Part2.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Docs/Workshop 1 - RequestDispatcherWorkshop.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Docs/Workshop 2 - ServletFilters.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Docs/Workshop 3 - HttpSession.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.4/ojdbc6-11.2.0.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/src/main/java/exercise/exercise0/Exercise0.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/src/main/java/exercise/exercise1/Exercise1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/src/main/java/exercise/exercise2/MyList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/src/main/java/exercise/exercise3/Exercise3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/src/main/java/exercise/exercise4/CastException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/src/main/java/exercise/exercise4/MyImplementedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/src/test/java/Exercise1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/src/test/java/Exercise2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/src/test/java/Exercise3Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/src/test/java/Exercise4Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part1/warm-up.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise0/Exercise0.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise1/Exercise1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise2/Exercise2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise2/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise2/StudentWithoutEqualsAndHashCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise2/StudentWithoutHashCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise3/Exercise3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise3/Exercise3Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise3/Stud.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise3/Stud2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise3/Stud3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise3/Stud4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise3/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise4/MyHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise5/MyHashMapWithMyImplementedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/main/java/exercise6/MyResizableHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/test/java/Exercise1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/test/java/Exercise2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/test/java/Exercise4Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/test/java/Exercise5Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/src/test/java/Exercise6Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Collections/warmup-part2/warm-up2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/libraries/Maven__com_oracle_ojdbc6_11_2_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/libraries/Maven__postgresql_postgresql_9_1_901_jdbc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/libraries/ojdbc6_11_2_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/ZTH.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/annotations/Column.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/annotations/Id.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/annotations/Table.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/database/DBManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/database/DBProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/ColumnInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/Condition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/EntityManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/EntityManagerImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/EntityUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/QueryBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/QueryType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/appl/dao/DepartmentDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/appl/dao/LocationDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/appl/domain/Department.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/appl/domain/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/appl/domain/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/autowired/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/autowired/AutowiredUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/autowired/B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/autowired/Foo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/autowired/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/autowired/MyAutowired.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/autowired/MyQualifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/autowired/SpeakingInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/test/java/ro/teamnet/zth/api/database/DBManagerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/test/java/ro/teamnet/zth/api/em/EntityManagerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/test/java/ro/teamnet/zth/api/em/EntityUtilsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Code/JDBCApp/src/test/java/ro/teamnet/zth/appl/EntityDaoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Exercitii suplimentare JDBC.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Other/SQL_TABLES.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Other/import_values.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/Other/import_values_locations.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../JDBC/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__com_netflix_rxjava_rxjava_core_0_16_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_api_mockito_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_api_support_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_api_support_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_classloading_base_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_classloading_base_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_core_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_core_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_mockito_release_full_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_junit3_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_junit3_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_junit4_legacy_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_junit4_legacy_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_junit4_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_testng_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_testng_common_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_module_testng_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_reflect_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_powermock_powermock_reflect_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_testng_testng_6_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/libraries/Maven__org_yaml_snakeyaml_1_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/dependency-reduced-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/examples-and-exercises.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/main/java/com/java_8_training/problems/collectors/Dish.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/main/java/com/java_8_training/problems/streams/FiltersAndMapExercise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/main/java/com/java_8_training/problems/streams/Nationality.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/main/java/com/java_8_training/problems/streams/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/main/resources/com/java_8_training/examples/deprecated/chapter6/huckleberry_finn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/main/resources/numbers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/test/java/com/java_8_training/problems/collectors/ArithmeticAndReducingCollectorsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/test/java/com/java_8_training/problems/collectors/CollectTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/test/java/com/java_8_training/problems/collectors/OccurrencesTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/test/java/com/java_8_training/problems/collectors/PartitioningAndGroupingTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/test/resources/com/java_8_training/examples/deprecated/chapter8/test_file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/src/test/resources/wrap_up/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/META-INF/CompilerHints" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/com/java_8_training/examples/deprecated/chapter6/huckleberry_finn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/classes/numbers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/META-INF/CompilerHints" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/com/java_8_training/examples/deprecated/chapter8/test_file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/Streams-Collectors/java8/target/test-classes/wrap_up/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__com_netflix_rxjava_rxjava_core_0_16_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_api_mockito_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_api_support_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_api_support_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_classloading_base_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_classloading_base_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_core_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_core_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_mockito_release_full_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_junit3_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_junit3_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_junit4_legacy_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_junit4_legacy_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_junit4_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_testng_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_testng_common_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_module_testng_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_reflect_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_powermock_powermock_reflect_sources_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_testng_testng_6_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/libraries/Maven__org_yaml_snakeyaml_1_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/examples-and-exercises.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/src/main/java/com/java_8_training/problems/lambdas/BehaviourParameterisation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/src/main/java/com/java_8_training/problems/lambdas/LambdasRefactor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/src/main/java/com/java_8_training/problems/lambdas/MethodRefsQuiz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/src/main/java/com/java_8_training/problems/lambdas/SortAndFilterList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/src/main/java/com/java_8_training/problems/lambdas/TitleFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/src/main/java/com/java_8_training/problems/lambdas/ValidateUsers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/src/main/java/com/java_8_training/problems/lambdas/func_interface/TextFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/src/main/java/com/java_8_training/problems/lambdas/func_interface/UserFieldValidator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/src/main/java/com/java_8_training/problems/lambdas/model/Apple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Java8/lambda-functional-interface/exercises-zth/src/main/java/com/java_8_training/problems/lambdas/model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/Workshop.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/canvas/Canvas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/exceptions/Exercise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/exceptions/MyException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/exceptions/NestedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/exceptions/Propagation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/exceptions/Resources.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/exceptions/Useall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/oop/graphicsshape/AbstractShape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/oop/graphicsshape/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/oop/graphicsshape/Circles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/oop/graphicsshape/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/oop/graphicsshape/Point3D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/oop/graphicsshape/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/oop/graphicsshape/ShapeBehaviour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/oop/graphicsshape/Square.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/oop/runapp/Immutable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/oop/runapp/RunApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/proiect/exceptions/AnimalManancaOmException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/proiect/exceptions/AnimalPeCaleDeDisparitieException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/proiect/oop/AngajatZoo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/proiect/oop/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/proiect/oop/AnimalZooFeroce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/proiect/oop/AnimalZooRar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/proiect/oop/GradinaZoo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/proiect/oop/IngrijitorZoo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/proiect/oop/VeterinarZoo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/src/ro/teamnet/zerotohero/proiect/zoo/GradinaZooMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../KnowYourLanguageOOP/Workshop/text" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../MVC/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/.idea/libraries/Maven__ro_teamnet_zerotohero_helloworld_main_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/HelloWorldExtend.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/logs.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/src/main/java/ro/teamnet/hello2/HelloWorldExtend.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/src/test/java/ro/teamnet/hello2/HelloWorldExtendTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/css/maven-base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/css/maven-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/dependencies.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/dependency-convergence.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/dependency-info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/plugin-management.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/plugins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/project-info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/site/project-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/surefire-reports/TEST-ro.teamnet.hello2.HelloWorldExtendTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldExtend/target/surefire-reports/ro.teamnet.hello2.HelloWorldExtendTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/dev.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/logs.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/src/main/java/ro/teamnet/hello/HelloWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/src/test/java/ro/teamnet/hello/HelloWorldTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/src/test/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/classes/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/javadoc-bundle-options/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/deprecated-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/index-all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/ro/teamnet/hello/HelloWorld.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/ro/teamnet/hello/class-use/HelloWorld.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/ro/teamnet/hello/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/ro/teamnet/hello/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/ro/teamnet/hello/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/ro/teamnet/hello/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/apidocs/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/css/maven-base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/css/maven-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/dependencies.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/dependency-convergence.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/dependency-info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/plugin-management.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/plugins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/project-info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/project-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/deprecated-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/index-all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/ro/teamnet/hello/HelloWorldTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/ro/teamnet/hello/class-use/HelloWorldTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/ro/teamnet/hello/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/ro/teamnet/hello/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/ro/teamnet/hello/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/ro/teamnet/hello/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/site/testapidocs/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/surefire-reports/TEST-ro.teamnet.hello.HelloWorldTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/surefire-reports/ro.teamnet.hello.HelloWorldTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/dev/HelloWorldMain/target/test-classes/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/src/main/java/org/samiky/beanvalidationsample/DoTheValidation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/src/main/java/org/samiky/beanvalidationsample/entities/ArithmeticOperation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/src/main/java/org/samiky/beanvalidationsample/entities/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/src/main/java/org/samiky/beanvalidationsample/entities/Gender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/src/main/java/org/samiky/beanvalidationsample/entities/Human.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/src/main/java/org/samiky/beanvalidationsample/entities/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/BeanValidationSample/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/src/main/java/com/mkyong/core/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/src/test/java/com/mkyong/core/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/target/surefire-reports/TEST-com.mkyong.core.AppTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/ProjectName/target/surefire-reports/com.mkyong.core.AppTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvn examples.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/mvnSrcJavadoc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/src/main/java/com/timnet/workshop/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/src/test/java/com/timnet/workshop/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/surefire-reports/TEST-com.timnet.workshop.AppTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/mvnSrcJavadoc/target/surefire-reports/com.timnet.workshop.AppTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/lombok.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/config/ApplicationContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/config/ServletContainerInitializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/config/SpringMVCApplicationContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/config/SystemDefaultProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/PackageInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/dao/CourseDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/dao/RegistrationDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/dao/StudentDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/dao/impl/CourseDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/dao/impl/RegistrationDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/dao/impl/StudentDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/entity/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/entity/PackageInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/entity/Registration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/entity/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/service/BaseService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/service/CourseService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/service/RegistrationService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/service/StudentService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/service/impl/CourseServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/service/impl/RegistrationServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/core/service/impl/StudentServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/springmvc/controller/CourseController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/springmvc/controller/PackageInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/springmvc/controller/RegistrationController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/ga/rugal/sample/springmvc/controller/StudentController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/rugal/sample/core/dao/StudentDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/java/rugal/sample/core/dao/impl/StudentDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/resources/hibernate.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/resources/jdbc_CI.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/resources/jdbc_Development.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/resources/jdbc_Production.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/main/resources/log4j2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/config/TestApplicationContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/config/UnitTestApplicationContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/ControllerClientSideTestBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/ControllerServerSideTestBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/IntegrationTestBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/UnitTestBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/core/dao/impl/CourseDAOImplIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/core/dao/impl/RegistrationDAOImplIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/core/dao/impl/StudentDAOImplIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/core/service/impl/CourseServiceImplTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/core/service/impl/RegistrationServiceImplTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/core/service/impl/StudentServiceImplTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/springmvc/controller/CourseControllerIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/springmvc/controller/CourseControllerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/springmvc/controller/RegistrationControllerIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/springmvc/controller/RegistrationControllerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/springmvc/controller/StudentControllerIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/src/test/java/ga/rugal/sample/springmvc/controller/StudentControllerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/myweb/static/db/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/.idea/artifacts/simple_webapp_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/.idea/artifacts/simple_webapp_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/simple-webapp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/src/main/java/org/sonatype/mavenbook/web/SimpleServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/target/simple-webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple-webapp/target/simple-webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/nbproject/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/simple.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/src/main/java/org/sonatype/mavenbook/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/src/test/java/org/sonatype/mavenbook/AnotherAppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/src/test/java/org/sonatype/mavenbook/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/surefire-reports/TEST-org.sonatype.mavenbook.AnotherAppTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/surefire-reports/TEST-org.sonatype.mavenbook.AppTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/surefire-reports/org.sonatype.mavenbook.AnotherAppTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/simple/target/surefire-reports/org.sonatype.mavenbook.AppTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/templates.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unit testing examples.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/src/main/java/com/timnet/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/src/main/java/com/timnet/MyUnit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/src/test/java/com/timnet/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/src/test/java/com/timnet/ClassPropertyTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/src/test/java/com/timnet/GlobalTimeoutTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/src/test/java/com/timnet/ListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/src/test/java/com/timnet/MapTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/src/test/java/com/timnet/MyUnitTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/src/test/java/com/timnet/TimeoutTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/TEST-com.timnet.AppTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/TEST-com.timnet.ClassPropertyTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/TEST-com.timnet.GlobalTimeoutTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/TEST-com.timnet.ListTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/TEST-com.timnet.MapTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/TEST-com.timnet.MyUnitTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/TEST-com.timnet.TimeoutTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/com.timnet.AppTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/com.timnet.ClassPropertyTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/com.timnet.GlobalTimeoutTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/com.timnet.ListTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/com.timnet.MapTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/com.timnet.MyUnitTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/target/surefire-reports/com.timnet.TimeoutTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Maven_UnitTesting/mvn examples/unitTesting/unitTesting.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/.idea/ClassReflectionDemo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ClassReflectionDemo/src/ro/teamnet/zerotohero/reflection/ClassReflectionDemoMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/.idea/libraries/ojdbc6_11_2_0_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/ZTH.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/api/annotations/Column.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/api/annotations/Id.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/api/annotations/Table.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/api/em/ColumnInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/api/em/Condition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/api/em/EntityUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/api/em/QuerryType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/appl/domain/Department.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/appl/domain/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/appl/domain/Job.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/main/java/ro/teamnet/zth/appl/domain/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/src/test/java/ro/teamnet/zth/api/em/EntityUtilsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Reflection/ZTH/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../SQL/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../SQL/create_tables.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../SQL/create_user.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../SQL/import_values.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../SQL/import_values_locations.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/.idea/artifacts/servlet_app_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/.idea/artifacts/servlet_app_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/servlet-app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/HelloWorldServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/ImportFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/InfoHttpServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/ZeroToHeroServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/resources/List_of_people.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/webapp/importFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/webapp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/webapp/js/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/webapp/js/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/webapp/views/http-info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/src/main/webapp/views/zero-to-hero.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/classes/List_of_people.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/HelloWorldServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ImportFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ZeroToHeroServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/List_of_people.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/HelloWorldServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ImportFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ZeroToHeroServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/importFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/js/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/js/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Day1/Code/servlet-app/target/servlet-app/zero-to-hero.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/jasperreports/reports/UsernameReport.jrxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/file/HeadersLogFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/file/LogFileWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/ExportFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/HelloWorldServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/HelloWorldServletForward.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/HttpSessionLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/exportFile.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/loginFail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.3/_maven.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.3/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar.lastUpdated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom.lastUpdated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.4/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../ojdbc6/11.2.0.4/ojdbc6-11.2.0.4.pom" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="51" column="33" lean-forward="false" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/HelloWorldServletForward.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/HelloWorldServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/HeadersLogFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/file/LogFileWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/file/HeadersLogFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/HttpSessionLogin.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/ExportFileServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/exportFile.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Web Application" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Web Application" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Web Application" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="tomcat7" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Web Application" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="servlet-app-day2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servlet-app-day2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="servlet-app-day2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f05b7dc-1716-461b-a9fc-78c8a0af3bee" name="Default" comment="" />
+      <created>1500447764654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500447764654</updated>
+      <workItem from="1500447767226" duration="15557000" />
+      <workItem from="1500475283021" duration="77000" />
+      <workItem from="1500475589352" duration="1083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16717000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17019667" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Servlets-Day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Servlets-Day2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="47" column="11" lean-forward="false" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/teamnet/zth/file/HeadersLogFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/HelloWorldServletForward.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar!/javax/servlet/ServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/teamnet/zth/file/LogFileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="27" column="58" lean-forward="false" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/HelloWorldServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="40" column="87" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/HttpSessionLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="62" column="48" lean-forward="true" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/teamnet/zth/web/ExportFileServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="63" column="20" lean-forward="false" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/exportFile.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="51" column="33" lean-forward="false" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
